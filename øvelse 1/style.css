@@ -43,3 +43,7 @@
      top: 17%;
      left: 18px;
  }
+
+ div:nth-child(2) p {
+     background-color: bisque;
+ }
