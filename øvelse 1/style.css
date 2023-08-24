@@ -32,3 +32,14 @@
  .zara {
      padding-bottom: 2%;
  }
+
+ h1 {
+     border: 1px solid #ccc;
+     padding: 2%;
+ }
+
+ h2 {
+     position: absolute;
+     top: 17%;
+     left: 18px;
+ }
