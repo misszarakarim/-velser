@@ -20,5 +20,14 @@ console.log(p2.textContent)
 p2.innerHTML = "heeeeyyyyyy"
 
 const img = document.querySelector("img")
-console.log(img)
+console.log(img.src);
+img.src = "pics/mad1.jpg";
+img.alt = "hey1"
+
+const img2 = document.querySelector("div:nth-child(2) img")
+console.log(img2.src);
+img2.src = "pics/mad2.jpg";
+img2.alt = "hey2"
+
+
 
